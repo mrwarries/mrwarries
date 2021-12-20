@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mrwarries
+- 👀 I’m interested in embedded and distributed technologies (they are not mutually exclusive ;)
+- 📫 How to reach me? Try my github name and append googles default domain.
